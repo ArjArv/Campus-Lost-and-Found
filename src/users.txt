@@ -1,0 +1,4 @@
+student1,pass123,Student
+staff1,admin123,Staff
+Arjunn,pass,Student
+Raghav,raghav12367,Student
